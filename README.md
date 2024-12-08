@@ -1,3 +1,5 @@
+# LangChain-Python
+
 - #2 ( setup등에 대한 내용. + 주피터 노트북 윈도우 버전 단축키 )
 - #3 ( 작동 방식에 익숙해 지기 위한 부분 )
 - #4 ( Langchain framework 간단 설명 정리 + )
